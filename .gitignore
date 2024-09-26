@@ -1,0 +1,6 @@
+.DS_Store
+.coverage
+.python-version
+__pycache__
+htmlcov
+
